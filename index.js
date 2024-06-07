@@ -1,3 +1,9 @@
+const port = process.env.PORT || 4000;
+
+bot.listen(port, () => {
+  console.log(`Example app listening on port ${port}`);
+});
+
 require("dotenv").config();
 const {
   Bot,
