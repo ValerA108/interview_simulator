@@ -1,1 +1,1 @@
-# **Live bot - <sub>[subscript](http://t.me/FrontScrinBot)</sub>**
+# **Live bot \_ <sub>[link](http://t.me/FrontScrinBot)</sub>**

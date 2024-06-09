@@ -5,6 +5,7 @@ const {
   InlineKeyboard,
   GrammyError,
   HttpError,
+  webhookCallback,
 } = require("grammy");
 const { getRandomQuestion, getCorrectAnswer } = require("./utils");
 
